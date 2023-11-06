@@ -1,4 +1,4 @@
-### Hi there 👋, this is IchBinTiMo
+### Hi there 👋, IchBinTiMo
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/abatm?theme=dark&font=source_code_pro&extension=null)
 
