@@ -1,13 +1,35 @@
 ## Hi there 👋, it's Timo.
 I've just graduated from the university and majored in computer science.
 
-### Most Used Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+### Languages and Tools:
+
+[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F)]()
+[![Typescript](https://img.shields.io/badge/Typescript-007acc)](https://www.typescriptlang.org/)
+[![Rust](https://img.shields.io/badge/Rust-171717)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-038cfc)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-38b8fc)](https://dart.dev/)
+[![C++](https://img.shields.io/badge/C++-033a91)](https://cplusplus.com/)
+[![C](https://img.shields.io/badge/C-033a91)]()
+[![Elixir](https://img.shields.io/badge/Elixir-8348ab)]([https://cplusplus.com/](https://elixir-lang.org/))
+[![Ruby](https://img.shields.io/badge/Ruby-ba0606)]()
+[![HTML](https://img.shields.io/badge/HTML5-b83f1d)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6)]()
+[![NSIS](https://img.shields.io/badge/NSIS-6eaffa)](https://nsis.sourceforge.io/Main_Page)
+
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-E34F26)](https://kit.svelte.dev/)
+[![Nodejs](https://img.shields.io/badge/Nodejs-3C873A)](https://nodejs.org/en)
+[![Express.js](https://img.shields.io/badge/Express.js-000000)](https://expressjs.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749)](https://tailwindcss.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-3b93ff)](https://flutter.dev/)
+[![Phoenix](https://img.shields.io/badge/Phoenix-6712a1)](https://www.phoenixframework.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-ffc43b)](https://firebase.google.com/)
+[![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032)](https://git-scm.com/)
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
