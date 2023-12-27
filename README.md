@@ -23,9 +23,9 @@ I've just graduated from the university and majored in computer science.
 [![Flutter](https://img.shields.io/badge/Flutter-3b93ff)](https://flutter.dev/)
 [![Phoenix](https://img.shields.io/badge/Phoenix-6712a1)](https://www.phoenixframework.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-ffc43b)](https://firebase.google.com/)
-[![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Git-F05032)](https://git-scm.com/)
 <!--
+[![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7)](https://code.visualstudio.com/)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
