@@ -4,16 +4,17 @@
 - Proficient in C++, Rust, Python, and JavaScript
 - Former Research Assistant @ National Cheng Kung University in Tainan, Taiwan
 - Seeking for Software Engineering Internship and Machine Learning Internship Summer 2025
+- Mandarin, English, Japanese, French
 
 ### Languages and Tools:
 
+[![C++](https://img.shields.io/badge/C++-033a91)](https://cplusplus.com/)
 [![Javascript](https://img.shields.io/badge/Javascript-F0DB4F)]()
-[![Typescript](https://img.shields.io/badge/Typescript-007acc)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-171717)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-038cfc)](https://www.python.org/)
-[![Dart](https://img.shields.io/badge/Dart-38b8fc)](https://dart.dev/)
-[![C++](https://img.shields.io/badge/C++-033a91)](https://cplusplus.com/)
 [![C](https://img.shields.io/badge/C-033a91)]()
+[![Typescript](https://img.shields.io/badge/Typescript-007acc)](https://www.typescriptlang.org/)
+[![Dart](https://img.shields.io/badge/Dart-38b8fc)](https://dart.dev/)
 [![Elixir](https://img.shields.io/badge/Elixir-8348ab)]([https://cplusplus.com/](https://elixir-lang.org/))
 [![Ruby](https://img.shields.io/badge/Ruby-ba0606)]()
 [![HTML](https://img.shields.io/badge/HTML5-b83f1d)]()
