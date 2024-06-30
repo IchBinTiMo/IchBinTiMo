@@ -1,5 +1,9 @@
 ## Hi there 👋, it's Timo.
-I've just graduated from the university and majored in computer science.
+<!-- I've just graduated from the university and majored in computer science. -->
+- Incoming MSCS Student @ Arizona State University from Fall 2024
+- Proficient in C++, Rust, Python, and JavaScript
+- Former Research Assistant @ National Cheng Kung University in Tainan, Taiwan
+- Seeking for Software Engineering Internship and Machine Learning Internship Summer 2025
 
 ### Languages and Tools:
 
