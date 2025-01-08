@@ -45,7 +45,7 @@
 -->
 📈 My Leetcode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/abatm?theme=dark&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abatm?theme=chartreuse&font=Play&ext=heatmap)
 
 <!--
 **IchBinTiMo/IchBinTiMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
