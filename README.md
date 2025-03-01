@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">I'm Timo. My passion drives me everywhere.<br><br>- 🎓 Pursuing M.S. in Computer Science @ Arizona State University<br>- 🌱 Currently learning something about blockchain and CUDA<br>- 👯 Looking to collaborate on web, AI, security, HPC, or any innovative ideas<br>- ⚡ Loving sing, dance, play Brawl Stars, and build cool side projects in my free time</p>
+<p align="left">I'm Timo. My passion drives me everywhere.<br><br>- 🎓 pursuing M.S. Computer Science @ Arizona State University<br>- 🌱 currently learning something about blockchain and CUDA<br>- 👯 looking to collaborate on anything exciting—web, AI, security, HPC, or any innovative ideas<br>- ⚡ sing, dance, play Brawl Stars, and build cool side projects in my free time</p>
+
+###
+
+<h3 align="left">📫 How to Reach Me</h3>
 
 ###
 
@@ -16,6 +20,9 @@
   </a>
   <a href="http://discordapp.com/users/359257921038843905" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
+  <a href="mailto:timolin1999@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
 
