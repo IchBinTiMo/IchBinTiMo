@@ -1,63 +1,120 @@
-## Hi there 👋, it's Timo.
-<!-- I've just graduated from the university and majored in computer science. -->
-- MSCS Student @ Arizona State University from Fall 2024
-- Proficient in C++, Rust, Python, and JavaScript
-- Seeking for Software Engineering Internship and Machine Learning Internship Summer 2025
-- Former Research Assistant @ National Cheng Kung University in Tainan, Taiwan
-- Speaking Mandarin and English
-- Learning Japanese and French
+<h1 align="left">Hi there 👋, it's Timo</h1>
 
-### Languages and Tools:
+###
 
-[![C++](https://img.shields.io/badge/C++-033a91)](https://cplusplus.com/)
-[![Javascript](https://img.shields.io/badge/Javascript-F0DB4F)]()
-[![Rust](https://img.shields.io/badge/Rust-171717)](https://www.rust-lang.org/)
-[![Python](https://img.shields.io/badge/Python-038cfc)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-033a91)]()
-[![Typescript](https://img.shields.io/badge/Typescript-007acc)](https://www.typescriptlang.org/)
-[![Dart](https://img.shields.io/badge/Dart-38b8fc)](https://dart.dev/)
-[![Ruby](https://img.shields.io/badge/Ruby-ba0606)]()
-[![HTML](https://img.shields.io/badge/HTML5-b83f1d)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6)]()
+<h3 align="left">👩‍💻  About Me</h3>
 
-[![SvelteKit](https://img.shields.io/badge/SvelteKit-E34F26)](https://kit.svelte.dev/)
-[![Nodejs](https://img.shields.io/badge/Nodejs-3C873A)](https://nodejs.org/en)
-[![Express.js](https://img.shields.io/badge/Express.js-000000)](https://expressjs.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749)](https://tailwindcss.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-3b93ff)](https://flutter.dev/)
-[![Firebase](https://img.shields.io/badge/Firebase-ffc43b)](https://firebase.google.com/)
-[![Git](https://img.shields.io/badge/Git-F05032)](https://git-scm.com/)
-[![Git](https://img.shields.io/badge/Linux-05f746)](https://www.linux.org/)
-<!--
-[![Phoenix](https://img.shields.io/badge/Phoenix-6712a1)](https://www.phoenixframework.org/)
-[![Elixir](https://img.shields.io/badge/Elixir-8348ab)]([https://cplusplus.com/](https://elixir-lang.org/))
-[![NSIS](https://img.shields.io/badge/NSIS-6eaffa)](https://nsis.sourceforge.io/Main_Page)
-[![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7)](https://code.visualstudio.com/)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<div style="font-family:'fira code';">Hello</div>
--->
-📈 My Leetcode Stats
+###
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/abatm?theme=chartreuse&font=Play&ext=heatmap)
+<p align="left">I'm Timo. My passion drives me everywhere.<br><br>- 🎓 pursuing M.S. Computer Science @ Arizona State University<br>- 🌱 currently learning something about blockchain and CUDA<br>- 👯 looking to collaborate on anything exciting—web, AI, security, HPC, or any innovative ideas<br>- ⚡ sing, dance, play Brawl Stars, and build cool side projects in my free time</p>
 
-<!--
-**IchBinTiMo/IchBinTiMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://www.linkedin.com/in/timo-lin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="timolin1999@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
+  <a href="http://discordapp.com/users/359257921038843905" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">💻 Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+</div>
+
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IchBinTiMo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IchBinTiMo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=IchBinTiMo&theme=dracula&margin-w=0&row=1&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+###
