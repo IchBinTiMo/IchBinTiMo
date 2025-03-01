@@ -116,9 +116,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=IchBinTiMo&theme=dracula&margin-w=0&row=1&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-###
