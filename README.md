@@ -10,7 +10,7 @@
   - 🎓 Pursuing M.S. in Computer Science @ Arizona State University<br>
   <!-- - 🌱 Currently learning something about blockchain and CUDA<br> -->
   <!-- - 👯 Looking to collaborate on web, AI, security, HPC, or any innovative ideas<br> -->
-  - ⚡ Loving sing, dance, play Brawl Stars, and build cool side projects in my free time</p>
+  - ⚡ Loving singing, dancing, playing Brawl Stars, and building cool side projects in my free time</p>
 
 ###
 
